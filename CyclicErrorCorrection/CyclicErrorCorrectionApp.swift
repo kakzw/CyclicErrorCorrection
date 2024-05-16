@@ -9,9 +9,9 @@ import SwiftUI
 
 @main
 struct Cyclic_Error_CorrectionApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
+  var body: some Scene {
+    WindowGroup {
+      ContentView()
     }
+  }
 }
